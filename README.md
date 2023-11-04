@@ -1,4 +1,6 @@
-# Part-of-Bharat-Intern-Virtual-Internship-Upskilling-Campaign
+# Bharat-Intern-Virtual-Internship-Upskilling-Campaign
 Data Science Internship
+
+
 Task 1- Titanic Classification :
 Make a system which tells whether the person will be save from sinking. What factors were most likely lead to success-socio-economic status, age, gender and more.
